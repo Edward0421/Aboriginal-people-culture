@@ -1,0 +1,46 @@
+#title {
+    color: mediumpurple;
+    border-radius: 15px;
+    border-style: solid;
+    border-color: white;
+    background-color: cornsilk;
+    width: 290px;
+    height: 55px;
+    margin: 10px;
+    padding: 1px;
+    text-align: center;
+    font-family: fantasy;
+    background-image: "images/bg.jpg";
+}
+
+#item-table {
+  border:0px;
+  margin: 0 auto; 
+}
+
+img {
+  text-align: center;
+  height: 300px;
+}
+
+hr {
+  margin-top:7px;
+  *margin: 0;
+  border: 0;
+  color: #919191;
+  background-color: #919191;
+  height: 1px;
+}
+
+#DIV1 {
+  width: 120px;
+  line-height: 50px;
+  padding: 20px;
+  margin-right: 10px;
+  float: left;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
